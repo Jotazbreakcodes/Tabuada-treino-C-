@@ -1,0 +1,14 @@
+C:\Users\jodet\Tabuada\bin\Debug\net9.0\Tabuada.exe
+C:\Users\jodet\Tabuada\bin\Debug\net9.0\Tabuada.deps.json
+C:\Users\jodet\Tabuada\bin\Debug\net9.0\Tabuada.runtimeconfig.json
+C:\Users\jodet\Tabuada\bin\Debug\net9.0\Tabuada.dll
+C:\Users\jodet\Tabuada\bin\Debug\net9.0\Tabuada.pdb
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.AssemblyInfo.cs
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.dll
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\refint\Tabuada.dll
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.pdb
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\Tabuada.genruntimeconfig.cache
+C:\Users\jodet\Tabuada\obj\Debug\net9.0\ref\Tabuada.dll
